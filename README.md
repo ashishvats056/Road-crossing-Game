@@ -1,4 +1,4 @@
-#Road-crossing game
+# Road-crossing game
 In this Python game, the player controls a turtle to cross a busy road while avoiding the randomly generated cars. The objective of the game is to reach the other side of the road safely, without getting hit by a car.
 
 # How to Play
