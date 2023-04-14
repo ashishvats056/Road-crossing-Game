@@ -10,7 +10,8 @@ Each successful crossing increases the level, and the speed and number of cars a
 If the turtle collides with a car, the game is over and the score is displayed.
 
 # Technologies Used
-Python 3
+Python
+
 Turtle module
 
 # Credits
